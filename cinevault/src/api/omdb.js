@@ -1,5 +1,3 @@
-// OMDB API configuration
-// Using a public demo key - users can replace with their own from https://www.omdbapi.com/
 const API_KEY = 'b9bd48a6';
 const BASE_URL = 'https://www.omdbapi.com/';
 
